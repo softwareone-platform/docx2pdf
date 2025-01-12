@@ -6,6 +6,8 @@ This Python script converts DOCX files to PDF using [Adobe's PDF Services API](h
 
 A basic example demonstrating how to use Adobe's PDF Services API to convert DOCX files to PDF, without relying on any external libraries or dependencies.
 
+A short article explaining the process can be found [here](https://medium.com/@maxkuzkin/how-to-generate-a-pdf-document-from-docx-using-adobe-pdf-services-api-and-python-1e96cd7cbc52).
+
 ## Requirements
 
 - Python 3.x
